@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.126.249.166:9980/mururadh/</url>
+	      <url>http://13.126.249.166:9980/mururadh/repository/Flipkart-Release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.247.129:9980/mururadh/repository/Flipkart-Snapshot/</url>
+	      <url>http://13.126.249.166:9980/mururadh/repository/Flipkart-Snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
